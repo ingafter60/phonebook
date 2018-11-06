@@ -1,0 +1,41 @@
+01. Introduction of Phonebook
+
+02. Create phonebook and install the dependencies
+
+	> composer create-project laravel/laravel=5.5 phonebook
+	> cd phonebook
+	> npm install vue-router
+	> npm install bulma --save
+	> npm install
+	> import bulma to app.scss (resources/assets/app.scss)
+	> npm run watch
+	> bootstrap.js -> delete require('bootstrap-sass');
+
+03. Start Laravel with Vuejs
+
+04. Start with Bulma
+
+05. Learn Vue Router
+
+06. Toggle Modal
+
+07. Save Data to Db
+
+08. Ajax Error Handling
+
+09. Display Item From Db
+
+10. Show Details
+
+11. Update Details
+
+12. Delete Item
+
+13. Fixing Bugs
+
+14. Sort By Name
+
+15. Search By Name
+
+16. Awesome Search
+
